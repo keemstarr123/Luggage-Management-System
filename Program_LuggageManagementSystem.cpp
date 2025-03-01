@@ -1,15 +1,3 @@
-/*Subject code : CSEB3213 Data Structure & Algorithms
-  Assignment Topic: Luggage Management System
-  Section      : 02
-  Group member :
-  1. Thong Hao Hong SW01083725
-  2. Jeevesh A/L Peraparakan SW01083692
-  3. Chua Jia Yi SW01083686
-  4. Pavala A/P Sunderan SW01083718
-  5. Khirtynamala A/P Tamil Kodi CS01083693
-  6. Nur Izzah Amani Binti Sukar @ Yahya SW01083288
-*/
-
 #include <iostream>
 #include <iomanip>
 #include <string>
